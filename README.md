@@ -1,5 +1,7 @@
 # VideoChatApp
 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/52853887/86222782-5008b500-bba4-11ea-8bd8-428c8c11c2ca.gif)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
