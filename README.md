@@ -55,3 +55,5 @@ React-Native CLI has an inbuilt command line interface, which ships with `node.j
 - **End-to-end Encryption:** Secure the information exchange inside the application.
 
 - **Settings:** Allows users to make general audio and video settings to adjust application settings accordingly.
+
+- **Platform:** Available on both Android & iOS.
