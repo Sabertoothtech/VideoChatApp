@@ -1,6 +1,6 @@
 # VideoChatApp
 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/52853887/86222782-5008b500-bba4-11ea-8bd8-428c8c11c2ca.gif)
+![video-chat](https://user-images.githubusercontent.com/52853887/86231851-c9a6a000-bbb0-11ea-9abc-bf38a9b36554.gif)
 
 ## Getting Started
 
@@ -35,6 +35,8 @@ React-Native CLI has an inbuilt command line interface, which ships with `node.j
 ## Built With
 * [React Native](https://reactnative.dev/docs/getting-started) - The Mobile framework used
 * [Django](https://docs.djangoproject.com/en/3.0/) - The backend framework used
+* [Agora](https://github.com/AgoraIO-Community/Agora-RN-Quickstart) 
+
 
 ## FEATURES:
 
